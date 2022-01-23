@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jae99/OneDrive/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94/mlflow-basic/mlruns/0/3d50d49c492f4ca18d8215ac36d93e82/artifacts
+end_time: 1642907481967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 3d50d49c492f4ca18d8215ac36d93e82
+run_uuid: 3d50d49c492f4ca18d8215ac36d93e82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642907379650
+status: 4
+tags: []
+user_id: JaeGeunSong
